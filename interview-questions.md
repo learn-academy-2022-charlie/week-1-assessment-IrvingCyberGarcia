@@ -25,7 +25,7 @@ INSTRUCTOR EXAMPLE: What is a conditional statement?
 
   Your answer: In my experience the logical operators that will return a boolean value are: ===,an ==.
 
-  Researched answer: boolean values are equality operator that compare one value to the other and compare both to say if the statement is tru or false.
+  Researched answer: boolean values are equality operator that compare one value to the other and compare both to say if the statement is true or false and uses logical operators and, or and not.
 
 
 
@@ -33,7 +33,7 @@ INSTRUCTOR EXAMPLE: What is a conditional statement?
 
   Your answer: An index is a number. A value is a word that is used to specify the content. In my understanding when working in an array. the name "zeus" sets a value and its index would be 1
 
-  Researched answer:an index is a read only property that has the position of a regular expression within a string. values are strings arrays numbers an other sets of data that comprises value.
+  Researched answer:index is the location of each value where we start the count with 0 and than the value is what we locate at each index.
 
 
 
@@ -57,12 +57,12 @@ INSTRUCTOR EXAMPLE: What is a conditional statement?
 
 Research and define the following terms to the best of your ability.
 
-1. Higher Order Functions:
+1. Higher Order Functions: built in methods in javascript that act on arrays by making an argument out of the function.
 
-2. Jest:
+2. Jest: a testing framework in JavaScript managed by yarn use to test code and allows you to know if your code is working properly.
 
-3. Objects:
+3. Objects: in javascript objects are a data type that has keys and values to form methods .
 
-4. Method:
+4. Method: a keyword in javascript that references the object and is used to create a variable accessing the value
 
-5. Classes:
+5. Classes: classes are blueprints for objects and they can be customizable  and reusable similar to functions
